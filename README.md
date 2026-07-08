@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Competitive+Programmer;AI+%7C+ML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
+
+## 🚀 About Me
+
+- 🎓 2nd Year Computer Science Student
+- 💻 Solved 370+ LeetCode Problems
+- 🤖 Interested in AI, Machine Learning & Data Science
+- 🏆 Hackathon Enthusiast
+- 📚 Currently learning DSA, AI & Machine Learning
